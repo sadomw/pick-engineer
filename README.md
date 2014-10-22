@@ -1,3 +1,4 @@
 pick-engineer
 =============
-Project is random name from .txt and use Ruby
+Project is random name Engineer from .txt
+Use Ruby language
